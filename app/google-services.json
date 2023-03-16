@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584124156013",
+    "project_id": "smartagro-7b8c9",
+    "storage_bucket": "smartagro-7b8c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584124156013:android:d30cc762f9f0d0d9671764",
+        "android_client_info": {
+          "package_name": "com.beproject.smartagro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584124156013-00gk2t3bvlhphftqvmh5fb8jqtuhpu9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjiAr3FuE-hImbDrZRLps3NaboWXltDho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584124156013-00gk2t3bvlhphftqvmh5fb8jqtuhpu9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
